@@ -4,7 +4,7 @@
 
 结果展示
 -------
-![Image text](https://github.com/naginoasukara/data-visualization/blob/master/58/images/)78QB~RWI1PB~RBI2LRES)O.png)
+![Image text](https://github.com/naginoasukara/data-visualization/blob/master/58/images/demo1.png)
 
 ![Image text](https://github.com/naginoasukara/data-visualization/blob/master/58/images/1.png)
 
