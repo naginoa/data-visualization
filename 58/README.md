@@ -6,6 +6,6 @@
 -------
 ![Image text](https://github.com/naginoasukara/data-visualization/blob/master/58/images/demo1.png)
 
-![Image text](https://github.com/naginoasukara/data-visualization/blob/master/58/images/1.png)
+![Image text](https://github.com/naginoasukara/data-visualization/blob/master/58/images/demo2.png)
 
 
